@@ -32,7 +32,15 @@ The following script is intended to cover how students utilize AI based systems 
 
 (Boord) Introduces the Sponsors of the Podcast, Truly Selling it
 
+Sponsors: Parkhurst, GPT 3.5, ALIC, D-Luman, and Porch Time Inc. 
+
 #### Meat and Bones
 
-(Steve): N
+~ Fancy Music Cut Winds Down into Steve Beginning his Narrator Duties ~
+
+(Steve): Discuss Importance of AI Innovations, Cite some sources
+
+(Boord): Talk About Prespective of a lazy Student off of Steve's AI Innovations; Make Cheating Easier, Etc.
+
+(King): Talk About the Good Uses of AI, fend off Boord's nonsense
 
