@@ -42,5 +42,24 @@ Sponsors: Parkhurst, GPT 3.5, ALIC, D-Luman, and Porch Time Inc.
 
 (Boord): Talk About Prespective of a lazy Student off of Steve's AI Innovations; Make Cheating Easier, Etc.
 
-(King): Talk About the Good Uses of AI, fend off Boord's nonsense
+(King): Talk About the Good Uses of AI by students, fend off Boord's nonsense
+
+(Steve): Talk About the first hand experiences with ai in classroom
+
+(Boord): Jab Back with Teacher's Concerns of students like one he just described
+
+(King): Start to get angry with Boord, talk about innovations for the classroom experience and how it has been enhanced 
+
+(Steve): Chill out the boys, bring order back in. Shift gears to our AI classroom; talk about the strides we made in class with various projects
+
+(Boord): Enter with some savvy business idea as Steve explains the neural network movie idea, ramble about the pitch
+
+(King): Discuss how this could lead to business opportunites, but ethics are important. Enter monologue about ethics in the class.
+
+(Steve): Wrap it all up wtih an eerie, how could this impact the future???
+
+(Boord): Thank the sponsors of the podcast again, really overdoing it
+
+Sponsors: Parkhurst, GPT 3.5, ALIC, D-Luman, and Porch Time Inc. 
+
 
